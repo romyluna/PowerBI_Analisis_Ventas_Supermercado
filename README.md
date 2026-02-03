@@ -1,5 +1,5 @@
 <a name="top"></a>
-# 📊 PowerBI_Supermarket_Sales_Analysis
+# 📊 PowerBI_Analisis_Ventas_Supermercado
 
 ## 📌 Descripción del Proyecto
 Este proyecto consiste en el análisis de ventas de un supermercado utilizando **Power BI**, con el objetivo de identificar **tendencias, estacionalidades y desempeño comercial** por producto, región y sucursal.
