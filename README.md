@@ -8,6 +8,13 @@ El dashboard permite responder preguntas de negocio clave a partir del análisis
 
 ---
 
+## 🛠️ Enfoque Técnico y Funcionalidad
+### Nota sobre el diseño: 
+Estos dashboards se centran en un enfoque analítico y exploratorio. La prioridad del proyecto es demostrar la capacidad de procesar grandes volúmenes de datos, organizar la información de manera lógica y permitir una navegación fluida mediante filtros dinámicos. Se ha priorizado la precisión y la funcionalidad interactiva sobre la personalización estética de colores.
+
+
+---
+
 ## 🎯 Objetivos
 - Analizar la evolución de ventas a lo largo del tiempo
 - Identificar patrones de **estacionalidad** por producto
@@ -28,15 +35,38 @@ El dashboard permite responder preguntas de negocio clave a partir del análisis
 
 ## ❓ Preguntas de Negocio Analizadas
 
-1. ¿Qué líneas de producto presentan comportamientos de estacionalidad similares?
-2. ¿Cómo se comporta la estacionalidad del producto *Botella de agua mineral*?
-3. ¿Cuál es la tendencia de ventas del producto *Lata de maíz en conserva*?
-4. ¿Qué región acumula la menor cantidad de unidades vendidas en el período analizado?
-5. ¿Qué regiones presentan una tendencia negativa en ventas?
-6. ¿Cómo se desempeña la sucursal *Cieloazul* frente a otras sucursales de la región Sur?
-7. ¿Cuál es el promedio de ventas trimestrales de la región Sur en el tercer trimestre?
-8. ¿Cuál fue el mes con mayores ventas para el tercer producto más vendido?
+### 1. ¿Qué líneas de producto presentan comportamientos de estacionalidad similares? 
 
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/1.png)
+
+### 2. ¿Cómo se comporta la estacionalidad del producto *Botella de agua mineral*?
+
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/2.png)
+
+### 3. ¿Cuál es la tendencia de ventas del producto *Lata de maíz en conserva*?
+
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/3.png)
+
+### 4. ¿Qué región acumula la menor cantidad de unidades vendidas en el período analizado?
+
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/4.png)
+
+### 5. ¿Qué regiones presentan una tendencia negativa en ventas?
+
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/5.png)
+
+### 6. ¿Cómo se desempeña la sucursal *Cieloazul* frente a otras sucursales de la región Sur?
+
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/6.png)
+
+### 7. ¿Cuál es el promedio de ventas trimestrales de la región Sur en el tercer trimestre?
+
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/7.png)
+
+### 8. ¿Cuál fue el mes con mayores ventas para el tercer producto más vendido?
+
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/8.png)
+![POWER BI](https://github.com/romyluna/PowerBI_Analisis_Ventas_Supermercado/raw/main/imagenes/8_A.png)
 ---
 
 ## 📈 Principales Insights
@@ -46,13 +76,6 @@ El dashboard permite responder preguntas de negocio clave a partir del análisis
 - La **región Este** es la que registra la menor cantidad de unidades vendidas y presenta una **tendencia negativa** en ventas.
 - Dentro de la región Sur, la sucursal **Cieloazul** es la de **menor desempeño en ventas**.
 - El **mes de noviembre** fue el de mayor volumen de ventas para el **tercer producto más vendido**.
-
----
-
-## 📂 Contenido del Repositorio
-- `Supermarket_Sales.pbix` → Dashboard interactivo en Power BI
-- `dataset_supermercado.csv` → Dataset utilizado para el análisis
-- `/images` → Capturas del dashboard
 
 ---
 
